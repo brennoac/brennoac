@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F8F8FF&width=435&lines=Welcome%2C+all!;To+my+web+of+stories!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F8F8FF&background=0000002A&width=435&lines=Welcome%2C+all!;To+my+web+of+tales!)](https://git.io/typing-svg)
 #
 ```cpp
 //About me..
