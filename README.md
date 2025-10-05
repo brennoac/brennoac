@@ -2,7 +2,7 @@
 #
 ```cpp
 //About me..
-char name[6] = { 'B', 'R', 'E', 'N', 'N', 'O' };
+char name[] = { 'B', 'R', 'E', 'N', 'N', 'O' };
 int age = 20;
 char fieldsOfInterest[][] = {
     "Cybersec"
