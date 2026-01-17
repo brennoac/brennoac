@@ -2,12 +2,12 @@
 #
 ```cpp
 //About me..
-char name[] = { 'B', 'R', 'E', 'N', 'N', 'O' };
-int age = 20;
-char fieldsOfInterest[][] = {
-    "Cybersec"
-    "Electronics"
-    "Game Design"
+char name[] = "Brenno";
+int age = 21;
+char *fieldsOfInterest[] = {
+    "Cybersec",
+    "Electronics",
+    "Game Design",
     "Infrastructure"
 };
 ```
